@@ -12,7 +12,7 @@ export default function SEO({
       <title>{title}</title>
       <meta name="description" content={description} />
       <meta name="keywords" content={keywords} />
-      <meta name="author" content="Dev School" />
+      <meta name="author" content="devXcodes" />
       <link rel="canonical" href={url} />
 
       {/* Open Graph */}
